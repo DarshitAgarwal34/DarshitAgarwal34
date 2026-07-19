@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- 🌌 BANNER (currently OFF)
-Steps to turn it on:
-1. Upload a banner image to the root of this repo — name it banner.png
-2. Delete the comment marker line right above the <img> tag below, and the "-->" line right after it
-<img src="https://github.com/DarshitAgarwal34/DarshitAgarwal34/blob/main/banner.png" width="100%" alt="Banner">
--->
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=38&pause=1000&color=4493F8&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Darshit+Agarwal;Full-Stack+Dev+%2B+ML+Enthusiast;Always+Shipping+Something+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
@@ -67,13 +60,13 @@ Steps to turn it on:
 ## ⚡ Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshitAgarwal34&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en&hide_border=true" alt="Darshit's GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=DarshitAgarwal34&theme=tokyonight&count_private=true&border_radius=10&locale=en&hide_border=true" alt="Darshit's Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshitAgarwal34&show_icons=true&theme=tokyonight" alt="Darshit's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=DarshitAgarwal34&theme=tokyonight" alt="Darshit's Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitAgarwal34&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Darshit's Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=DarshitAgarwal34&theme=tokyonight&no-frame=true&row=1&column=6" alt="Darshit's Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitAgarwal34&layout=compact&theme=tokyonight" alt="Darshit's Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=DarshitAgarwal34&theme=tokyonight&row=1&column=6" alt="Darshit's Trophies" />
 </div>
 
 <br>
@@ -88,11 +81,13 @@ Steps to turn it on:
   </picture>
 </div>
 
-<!--
-  ⚠️ This snake only renders AFTER you add the workflow file below and run it once.
-  See setup instructions at the bottom of this file / in chat.
--->
-
 <br>
 
 <p align="center"><i>Always open to interesting collabs and hackathons — feel free to reach out! ⚡</i></p>
+
+<!-- BANNER SETUP (optional, off by default):
+Step 1: upload an image named banner.png to the root of this repo.
+Step 2: delete this whole comment block (the two lines with dashes, above and below).
+Step 3: paste this single line in its place near the top of the file:
+<img src="https://github.com/DarshitAgarwal34/DarshitAgarwal34/blob/main/banner.png?raw=true" width="100%" alt="Banner">
+-->
