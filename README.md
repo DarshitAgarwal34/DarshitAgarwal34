@@ -11,7 +11,7 @@
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Darshit+Agarwal!;Full-Stack+Dev+%2B+ML+Enthusiast;" />
+    <img src="https://streak-stats.demolab.com/?user=DarshitAgarwal34&theme=tokyonight&count_private=true&border_radius=10&locale=en" />
 </h1>
 
 ### A CS undergrad building full-stack products and ML pipelines — currently deep in hackathon mode.
